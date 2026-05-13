@@ -1,2 +1,3 @@
-2026/05/13-14:04:46.880 b18 Creating DB C:\Work\Listen260513\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/05/13-14:04:46.908 b18 Reusing MANIFEST C:\Work\Listen260513\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/13-14:22:54.639 1b8c Reusing MANIFEST C:\Work\Listen260513\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/13-14:22:54.640 1b8c Recovering log #3
+2026/05/13-14:22:54.640 1b8c Reusing old log C:\Work\Listen260513\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
